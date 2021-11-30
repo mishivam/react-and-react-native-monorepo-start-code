@@ -1,13 +1,11 @@
 {
-  "name": "monorepo",
+  "name": "toilcrew",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Shivam Mishra <mishivam1999@gmail.com>",
   "license": "MIT",
   "private": true,
-  "workspaces": {
-    "packages": [
-      "packages/*"
-    ]
-  }
+  "workspaces":[
+    "packages/*"
+  ]
 }
